@@ -92,8 +92,5 @@ You can modify these parameters in the code:
 
 ## License
 
-[Add your license information here]
+MIT License
 
-## Contributing
-
-[Add contribution guidelines here]
